@@ -903,7 +903,7 @@ export default function Home() {
       <section id="home" className="min-h-screen pt-20 flex flex-col justify-center items-center px-4 text-center">
         <div className="space-y-6 max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600 animate-float">
-            Hi, I'm Bashe Fufa
+            Hi, I&apos;m Bashe Fufa
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 animate-pulse-slow">
             Full-Stack Developer | Computer Science Graduate | Tech Enthusiast
@@ -960,7 +960,7 @@ export default function Home() {
           {showContact && (
             <div className="mt-6 p-6 bg-gray-800/50 rounded-lg backdrop-blur-sm border border-blue-600/20">
               <div className="space-y-6">
-                <h3 className="text-xl font-semibold mb-4">Let's Connect!</h3>
+                <h3 className="text-xl font-semibold mb-4">Let&apos;s Connect!</h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <a 
                     href="mailto:olifanfufa@gmail.com"
@@ -1682,9 +1682,9 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-20 px-4 bg-gray-900/50 scroll-mt-16">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">Let's Connect</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">Let&apos;s Connect</h2>
           <p className="text-gray-300 mb-8 text-center">
-            I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+            I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
           </p>
           
           {/* Contact Form */}
